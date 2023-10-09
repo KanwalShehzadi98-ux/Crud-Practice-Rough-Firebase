@@ -6,3 +6,5 @@
 5. Then for Adding users we used firebase method addDoc(ref,{name:newName,age:Number(newAge)})
 6. Then for Updating the data updateDoc(newRef,newAgeBeingCalculated) is used while newRef = doc(db,"users,id)
 7. Then for deleting the data deleteDoc(newRef) is used while newRef = doc(db,"users,id)
+8. Now keeping these steps in mind you can create any data oriented react app
+9. Happy React Coding!!!
