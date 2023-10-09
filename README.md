@@ -1,2 +1,3 @@
 # Crud-Practice-Rough-Firebase
-First the react setup is made
+1.First the react setup is made
+2.Then the firebase setup is made
